@@ -5,7 +5,6 @@
 
 ### Linguagens e Ferramentas
 :computer: C
-<i class="devicon-azuresqldatabase-plain"> </i> SQL 
 
 ### Áreas de Interesse 
 :robot: Robótica
