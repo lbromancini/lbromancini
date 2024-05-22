@@ -1,16 +1,12 @@
-## Hi there 👋
+### Informações básicas
+:mortar_board: Engenharia de Controle e Automação - IFSC Chapecó
+:briefcase: Estagiário de ciência de dados - Amo Sistemas
 
-<!--
-**lbromancini/lbromancini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Linguagens e Ferramentas
+:computer: C
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Áreas de Interesse 
+:robot: Robótica
+:game_die: Ciência de dados
+:crystal_ball: Algoritmos de Predição
+:chart_with_upwards_trend: Algoritmos de Regressão e Otimização Numérica
