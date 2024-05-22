@@ -1,3 +1,5 @@
+:warning: Perfil em construção! :warning:
+
 ### Informações básicas
 :mortar_board: Engenharia de Controle e Automação - IFSC Chapecó
 
