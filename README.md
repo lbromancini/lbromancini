@@ -1,3 +1,3 @@
 :mortar_board: Engenharia de Controle e Automação - IFSC Chapecó
 
-:briefcase: Estagiário de ciência de dados - Amo Sistemas
+:briefcase: Cientista de dados - Amo Sistemas
